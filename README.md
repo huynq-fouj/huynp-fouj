@@ -4,3 +4,6 @@
 |--------|
 |Java    |
 |Javascript|
+<div align="center">
+    <img src="images/UPO.png"/>
+</div>
