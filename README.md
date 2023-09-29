@@ -1,2 +1,6 @@
-> Hi!
-My personal repository.
+## 🚀Hi there! q(≧▽≦q)
+
+|Language|
+|--------|
+|Java    |
+|Javascript|
