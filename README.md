@@ -5,11 +5,6 @@ Why my code works 🤯.
 ## Socials:
 [<img src="images/Facebook.png" alt="Facebook" height="35"/>](https://www.facebook.com/huy.nhuyen.1447342/) 
 [<img src="images/Zalo.png" alt="Facebook" height="35"/>](images/zalo-qr.jpg)
----
-<div align="center">
-    <img src="images/UPO.png" width="220"/>
-</div>
-
 ## Tech Stack:
 
 <div align="center">
@@ -32,5 +27,10 @@ Why my code works 🤯.
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27" alt="vscode logo"  />
 </div>
 
+---
+<div align="center">
+    <img src="images/UPO.png" width="220"/>
+</div>
+
 ##
-<p align="center" style="font-size: 36px">🍁🍄🍂🍌🌵🪻</p>
+<p align="center">🍁🍄🍂🍌🌵🪻</p>
