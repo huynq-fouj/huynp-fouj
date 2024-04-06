@@ -31,6 +31,3 @@ Why my code works 🤯.
 <div align="center">
     <img src="images/UPO.png" width="220"/>
 </div>
-
-##
-<p align="center">🍁🍄🍂🍌🌵🪻</p>
